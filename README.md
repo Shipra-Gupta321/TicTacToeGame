@@ -1,8 +1,8 @@
 # TicTacToeGame
 Description : 
-1).This is a simple and interactive Tic Tac Toe game built using C++.
-2).It’s a two-player console-based game where players take turns placing their marks ('X' or 'O') on a 3x3 grid. The objective is to form a straight line — horizontally, vertically, or diagonally — before your opponent does.
-3).If all nine cells are filled without a winner, the game results in a draw. 
+1).This is a simple and interactive Tic Tac Toe game built using C++.<br>
+2).It’s a two-player console-based game where players take turns placing their marks ('X' or 'O') on a 3x3 grid. The objective is to form a straight line — horizontally, vertically, or diagonally — before your opponent does.<br>
+3).If all nine cells are filled without a winner, the game results in a draw. <br>
 
 Features : 
 1). Two-player mode – Play against a friend on the same computer.
